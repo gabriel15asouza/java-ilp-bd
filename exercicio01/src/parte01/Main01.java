@@ -15,13 +15,7 @@ public class Main01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int jan = 15000;
-        int fev= 23000;
-        int mar= 17000;
-        double despTotal = jan+fev+mar;
-        
-        System.out.println("Despesa total: "+ despTotal);     
-        System.out.println("Média mensal: "+ despTotal/3);             
+        System.out.println("Olá mundo!");
     }
     
 }
